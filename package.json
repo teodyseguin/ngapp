@@ -1,0 +1,19 @@
+{
+  "name": "ngapp",
+  "version": "1.0.0",
+  "description": "A single page app which demonstrate on using FixedDataTable on React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teodyseguin/ngapp.git"
+  },
+  "author": "Teody C. Seguin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/teodyseguin/ngapp/issues"
+  },
+  "homepage": "https://github.com/teodyseguin/ngapp#readme"
+}
