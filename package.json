@@ -20,6 +20,7 @@
   "homepage": "https://github.com/teodyseguin/ngapp#readme",
   "dependencies": {
     "fixed-data-table": "^0.6.4",
+    "jquery": "^3.2.1",
     "jquery-csv": "^0.8.3",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
