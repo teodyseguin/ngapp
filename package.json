@@ -4,6 +4,8 @@
   "description": "A single page app which demonstrate on using FixedDataTable on React",
   "main": "index.js",
   "scripts": {
+    "build": "./node_modules/.bin/webpack",
+    "start": "./node_modules/.bin/webpack-dev-server --history-api-fallback",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +19,8 @@
   },
   "homepage": "https://github.com/teodyseguin/ngapp#readme",
   "dependencies": {
+    "fixed-data-table": "^0.6.4",
+    "jquery-csv": "^0.8.3",
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "webpack": "^2.5.1",
